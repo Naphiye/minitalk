@@ -18,11 +18,10 @@ Ce projet permet de se familiariser avec :
 - Le serveur doit afficher les messages reçus en temps réel.
 - Le code doit respecter les normes de l’école 42.
 - Gestion des erreurs obligatoire (pid invalide, signal manquant, etc.).
-- Bonus possibles :
+
+## ⭐ Bonus :
   - Communication bidirectionnelle (accusé de réception).
   - Envoi de chaînes Unicode.
-  - Amélioration de la robustesse.
-
 ---
 
 ## 🚀 Utilisation
