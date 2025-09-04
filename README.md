@@ -14,7 +14,7 @@ Ce projet permet de se familiariser avec :
 ## 🎯 Objectifs et Contraintes
 - Implémenter un **serveur** capable de recevoir des messages.
 - Implémenter un **client** qui envoie une chaîne de caractères au serveur.
-- Utiliser uniquement les signaux `SIGUSR1` et `SIGUSR2` pour transmettre les données. (Manipuliation des bits)
+- Utiliser uniquement les signaux `SIGUSR1` et `SIGUSR2` pour transmettre les données. (manipuliation des bits)
 - Le serveur doit afficher les messages reçus en temps réel.
 - Le code doit respecter les normes de l’école 42.
 - Gestion des erreurs obligatoire (pid invalide, signal manquant, etc.).
